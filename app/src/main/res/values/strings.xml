@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Vremenska</string>
+    <string name="hello_world">Hello svima</string>
+    <string name="action_settings">Settings</string>
+</resources>
